@@ -1,3 +1,5 @@
+//Created January 2019 by Rob Schlom
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
